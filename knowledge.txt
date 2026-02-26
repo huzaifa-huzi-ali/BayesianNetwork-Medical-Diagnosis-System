@@ -1,0 +1,225 @@
+Flu has symptoms fever, cough, sore throat, headache
+Common Cold has symptoms runny nose, sneezing, sore throat, cough
+Migraine has symptoms headache, nausea, sensitivity to light
+Diabetes has symptoms frequent urination, excessive thirst, fatigue
+Hypertension has symptoms headache, dizziness, nosebleeds
+Asthma has symptoms shortness of breath, wheezing, coughing
+Pneumonia has symptoms fever, cough, chest pain, shortness of breath
+Tuberculosis has symptoms persistent cough, fever, night sweats
+Chickenpox has symptoms fever, rash, itching, fatigue
+Malaria has symptoms fever, chills, sweating, headache
+Hepatitis B has symptoms fatigue, nausea, abdominal pain, jaundice
+Dengue has symptoms fever, headache, joint pain, rash
+COVID-19 has symptoms fever, cough, loss of taste, fatigue
+Arthritis has symptoms joint pain, stiffness, swelling, fatigue
+Bronchitis has symptoms cough, mucus, fatigue, chest discomfort
+Anemia has symptoms fatigue, weakness, pale skin, dizziness
+Lymphedema has symptoms swelling, heaviness, tightness in limbs
+Depression has symptoms sadness, loss of interest, fatigue, insomnia
+Heart Attack has symptoms chest pain, shortness of breath, sweating
+actinic keratosis has symptoms skin lesion, skin growth, irregular appearing scalp, skin moles, itching of skin, skin irritation, skin rash, abnormal appearing skin, symptoms of the face.
+bell palsy has symptoms facial pain, peripheral edema, weakness, focal weakness.
+vulvodynia has symptoms nausea, painful urination, lower abdominal pain, pain during pregnancy, pelvic pain, burning abdominal pain, side pain, sharp abdominal pain, vaginal discharge, vaginal pain, back pain.
+aortic valve disease has symptoms shortness of breath, sharp chest pain, fainting, difficulty breathing, irregular heartbeat, peripheral edema, lymphedema.
+personality disorder has symptoms anxiety and nervousness, depression, depressive or psychotic symptoms, hostile behavior, drug abuse, insomnia, excessive anger, delusions or hallucinations, temper problems, fears and phobias, low self-esteem.
+viral exanthem has symptoms cough, skin swelling, vomiting, decreased appetite, itching of skin, skin rash, nasal congestion, abnormal appearing skin, fever, pulling at ears.
+pyogenic skin infection has symptoms skin swelling, abnormal appearing skin, foot or toe pain, skin rash.
+rheumatoid arthritis has symptoms hand or finger swelling, wrist swelling, elbow swelling, joint swelling, hand or finger pain, joint pain, elbow swelling.
+idiopathic irregular menstrual cycle has symptoms sharp abdominal pain, cramps and spasms, lower abdominal pain, intermenstrual bleeding, pelvic pain, unpredictable menstruation, painful menstruation, heavy menstrual flow.
+tendinitis has symptoms leg pain, hand or finger swelling, foot or toe pain, ankle pain, hip pain, wrist pain, knee pain.
+bladder disorder has symptoms suprapubic pain, sharp abdominal pain, frequent urination, lower abdominal pain, blood in urine.
+transient ischemic attack has symptoms depressive or psychotic symptoms, weakness, focal weakness, difficulty speaking, loss of sensation, disturbance of memory, paresthesia, symptoms of the face.
+eczema has symptoms cough, skin swelling, abnormal appearing skin, skin lesion, irregular appearing scalp, allergic reaction, itching of skin, skin irritation, warts, skin rash, acne or pimples, skin dryness, peeling, scaliness, or roughness.
+sick sinus syndrome has symptoms shortness of breath, dizziness, palpitations, decreased heart rate, increased heart rate.
+joint effusion has symptoms wrist pain, wrist swelling, ankle pain, knee swelling, knee stiffness or tightness, ankle swelling.
+vaginitis has symptoms vaginal itching, painful urination, pain during intercourse, lower abdominal pain, pain during pregnancy, vaginal redness, suprapubic pain, vaginal discharge, vaginal pain.
+lymphedema has symptoms foot or toe swelling, lymphedema, fluid retention, throat swelling, abnormal appearing skin, skin lesion, leg swelling, peripheral edema.
+kidney stone has symptoms retention of urine, sharp abdominal pain, painful urination, lower abdominal pain, low back pain, vomiting, frequent urination, blood in urine, back pain, side pain.
+hypovolemia has symptoms dizziness, fainting, diarrhea, decreased appetite, fever, sharp abdominal pain, feeling ill, nausea.
+gum disease has symptoms toothache, mouth ulcer, peripheral edema, ear pain, gum pain, pain in gums, lip swelling, facial pain, fever, jaw swelling, bleeding gums.
+dermatitis due to sun exposure has symptoms lack of growth, irregular appearing scalp, skin moles, skin rash.
+pelvic inflammatory disease has symptoms suprapubic pain, sharp abdominal pain, vaginal discharge, intermenstrual bleeding, pelvic pain, vomiting, nausea, painful urination, lower abdominal pain, back pain, burning abdominal pain.
+food allergy has symptoms cough, lip swelling, allergic reaction, itching of skin, skin rash.
+marijuana abuse has symptoms anxiety and nervousness, depressive or psychotic symptoms, difficulty speaking, abusing alcohol, delusions or hallucinations, fears and phobias, low self-esteem.
+angina has symptoms shortness of breath, dizziness, chest tightness, increased heart rate, sweating.
+otitis media has symptoms sore throat, cough, nasal congestion, diminished hearing, vomiting, ear pain, fever, coryza, pulling at ears, plugged feeling in ear, fluid in ear.
+pulmonary congestion has symptoms sharp chest pain, chest tightness, cough, leg swelling, fever.
+fracture of the arm has symptoms wrist pain, arm pain, wrist swelling, wrist stiffness or tightness, elbow pain, shoulder pain.
+hemangioma has symptoms lip swelling, skin growth, irregular appearing scalp, skin moles, lymphedema, irregular appearing nails, skin dryness, peeling, scaliness, or roughness, skin swelling, skin lesion.
+gastrointestinal hemorrhage has symptoms dizziness, nausea, diarrhea, weakness, rectal bleeding, blood in stool, vomiting, vomiting blood, changes in stool appearance, melena, fainting.
+fungal infection of the hair has symptoms skin swelling, skin lesion, acne or pimples, pelvic pain, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation, itchy scalp, skin rash, abnormal appearing skin, irregular appearing scalp.
+skin disorder has symptoms skin swelling, skin lesion, acne or pimples, skin growth, skin moles.
+hypoglycemia has symptoms problems with movement, weakness, seizures, sleepiness, depressive or psychotic symptoms, abnormal involuntary movements, fainting, feeling ill, decreased appetite, sweating, dizziness, nausea.
+skin pigmentation disorder has symptoms acne or pimples, skin growth, skin moles, itching of skin, warts, skin swelling, skin lesion, abnormal appearing skin, irregular appearing scalp, skin dryness, peeling, scaliness, or roughness.
+anal fissure has symptoms sharp abdominal pain, vaginal dryness, blood in stool, pain of the anus, changes in stool appearance, rectal bleeding, constipation.
+osteoarthritis has symptoms hand or finger pain, knee pain, knee weakness, elbow pain, knee swelling, muscle pain, hip pain, back pain, leg pain, ankle pain, joint pain.
+impetigo has symptoms cough, nasal congestion, abnormal appearing skin, skin lesion, mouth ulcer, skin rash, sore in nose, skin swelling, fever, itching of skin.
+conjunctivitis due to allergy has symptoms cough, pain in eye, swollen eye, sneezing, nasal congestion, diminished vision, symptoms of eye, lacrimation, itchiness of eye, eye burns or stings, allergic reaction.
+hidradenitis suppurativa has symptoms groin mass, arm pain, skin growth, skin rash.
+chronic sinusitis has symptoms facial pain, ear pain, painful sinuses.
+pilonidal cyst has symptoms skin swelling, skin growth, irregular appearing scalp, pain of the anus, pelvic pain, bones are painful, ache all over.
+injury to the leg has symptoms leg pain, knee pain, foot or toe pain, ankle pain, knee swelling, knee stiffness or tightness, irregular appearing nails, foot or toe swelling, infant feeding problem.
+interstitial lung disease has symptoms shortness of breath, cough, nasal congestion, headache, wheezing, fever, sleepiness.
+pneumonia has symptoms sharp chest pain, sore throat, cough, nasal congestion, vomiting, coryza, fever, difficulty breathing, chills.
+threatened pregnancy has symptoms sharp abdominal pain, lower abdominal pain, intermenstrual bleeding, pelvic pain, problems during pregnancy, cramps and spasms, blood clots during menstrual periods, uterine contractions.
+depression has symptoms depression, insomnia, disturbance of memory.
+social phobia has symptoms abusing alcohol, excessive appetite, excessive anger, delusions or hallucinations.
+fracture of the rib has symptoms shortness of breath, sharp chest pain, back pain, bones are painful, shoulder pain, ache all over, back mass or lump, hip pain, rib pain, hurts to breath.
+acute sinusitis has symptoms sore throat, nasal congestion, facial pain, ear pain, fever, sinus congestion, painful sinuses, frontal headache, cough, coughing up sputum, coryza.
+croup has symptoms hoarse voice, sore throat, cough, nasal congestion, vomiting, wheezing, pulling at ears, shortness of breath, abnormal breathing sounds.
+obstructive sleep apnea (osa) has symptoms insomnia, abnormal involuntary movements, abnormal breathing sounds, shortness of breath, mouth dryness, weight gain, difficulty breathing, fatigue, sleepiness, apnea, sweating, difficulty in swallowing.
+tietze syndrome has symptoms cough, loss of sensation, difficulty breathing, rib pain, shortness of breath, chest tightness.
+athlete's foot has symptoms skin swelling, abnormal appearing skin, skin dryness, peeling, scaliness, or roughness, skin lesion, foot or toe pain, skin rash, foot or toe swelling, irregular appearing nails.
+acute glaucoma has symptoms double vision, symptoms of eye, foreign body sensation in eye, spots or clouds in vision, blindness, diminished vision, pain in eye, eye redness.
+intracranial hemorrhage has symptoms depressive or psychotic symptoms, dizziness, abnormal involuntary movements, difficulty speaking, seizures.
+intestinal disease has symptoms fainting, vomiting, nausea, diarrhea, regurgitation, burning abdominal pain, regurgitation.1.
+cystitis has symptoms sharp abdominal pain, involuntary urination, frequent urination, lower abdominal pain, side pain, retention of urine, suprapubic pain, painful urination, blood in urine, back pain, pelvic pain, symptoms of bladder.
+developmental disability has symptoms difficulty speaking, lack of growth, seizures, delusions or hallucinations, obsessions and compulsions, antisocial behavior, hostile behavior, restlessness, fears and phobias.
+smoking or tobacco addiction has symptoms shortness of breath, sharp chest pain, headache, smoking problems, excessive anger, coughing up sputum, hemoptysis, cough, abusing alcohol, drug abuse, hurts to breath.
+male genitalia infection has symptoms swelling of scrotum, pain in testicles, irritable infant, bumps on penis.
+spondylosis has symptoms hip pain, arm pain, neck pain, low back pain, knee pain, loss of sensation, paresthesia, ache all over, lower body pain.
+drug abuse (cocaine) has symptoms depression, sharp chest pain, abusing alcohol, hostile behavior, fears and phobias.
+diabetic ketoacidosis has symptoms depressive or psychotic symptoms, sharp chest pain, sharp abdominal pain, nausea, diarrhea, frequent urination, fluid retention, decreased appetite.
+alcohol abuse has symptoms anxiety and nervousness, depressive or psychotic symptoms, hostile behavior, drug abuse, smoking problems, low self-esteem, depression.
+acute kidney injury has symptoms shortness of breath, vomiting, peripheral edema, kidney mass, symptoms of the kidneys, dizziness, retention of urine, nausea, weakness, sharp chest pain, sharp abdominal pain.
+vaginal cyst has symptoms vaginal discharge, pelvic pain, vaginal pain, spotting or bleeding during pregnancy, cramps and spasms, blood clots during menstrual periods, heavy menstrual flow, sharp abdominal pain, intermenstrual bleeding, pain during pregnancy, problems during pregnancy.
+lyme disease has symptoms depressive or psychotic symptoms, hip pain, headache, symptoms of the face.
+foreign body in the eye has symptoms symptoms of eye, pain in eye, eye redness, itchiness of eye, eye burns or stings, white discharge from eye.
+labyrinthitis has symptoms dizziness, diminished hearing, headache, ear pain, plugged feeling in ear, spots or clouds in vision, loss of sensation.
+idiopathic excessive menstruation has symptoms sharp abdominal pain, vaginal discharge, intermenstrual bleeding, long menstrual periods, heavy menstrual flow, painful menstruation, involuntary urination, cramps and spasms.
+acute bronchiolitis has symptoms shortness of breath, irritable infant, vomiting, fever, difficulty breathing, pulling at ears, cough, nasal congestion, wheezing, coryza.
+neurofibromatosis has symptoms groin mass, abnormal appearing skin.
+oppositional disorder has symptoms depressive or psychotic symptoms, fainting, restlessness, low self-esteem, obsessions and compulsions, antisocial behavior, low urine output.
+injury to the shoulder has symptoms arm pain, arm stiffness or tightness, neck pain, bones are painful, elbow pain, shoulder stiffness or tightness, muscle cramps, contractures, or spasms, back pain, arm swelling, neck mass, shoulder pain, muscle cramps, contractures, or spasms.
+paroxysmal ventricular tachycardia has symptoms sharp chest pain, chest tightness, weight gain, increased heart rate, fatigue, dizziness.
+gout has symptoms hand or finger pain, wrist pain, foot or toe pain, ankle pain, knee swelling, leg swelling, foot or toe swelling, hand or finger swelling, wrist swelling, knee pain, joint pain, ankle swelling.
+skin polyp has symptoms skin swelling, skin growth, skin moles, itching of skin, skin dryness, peeling, scaliness, or roughness, abnormal appearing skin, acne or pimples, irregular appearing scalp, warts.
+open wound of the nose has symptoms diminished hearing, facial pain, nosebleed.
+lipoma has symptoms skin swelling, groin mass, abnormal appearing skin, skin lesion, skin growth, bones are painful, back mass or lump, shoulder lump or mass, arm lump or mass.
+temporomandibular joint disorder has symptoms sore throat, diminished hearing, facial pain, pain in eye.
+premature atrial contractions (pacs) has symptoms shortness of breath, dizziness, palpitations, fatigue, muscle swelling.
+multiple sclerosis has symptoms headache, weakness, loss of sensation, paresthesia, dizziness, abnormal involuntary movements, problems with movement, focal weakness, disturbance of memory, leg weakness, fatigue.
+alopecia has symptoms feeling ill, acne or pimples, skin growth, irregular appearing scalp, skin rash, skin swelling, itching of skin, too little hair.
+degenerative disc disease has symptoms neck pain, loss of sensation, paresthesia, joint pain, leg pain, arm pain, back pain, shoulder pain.
+strep throat has symptoms cough, difficulty in swallowing, headache, decreased appetite, skin rash, sore throat, nasal congestion, fever, ear pain, chills, ache all over.
+postoperative infection has symptoms skin swelling, sharp abdominal pain, jaw swelling, skin on leg or foot looks infected.
+panic disorder has symptoms shortness of breath, depressive or psychotic symptoms, dizziness, chest tightness, irregular heartbeat, breathing fast.
+esophagitis has symptoms shortness of breath, chest tightness, vomiting, nausea, burning abdominal pain, heartburn, upper abdominal pain.
+necrotizing fasciitis has symptoms leg pain, hip pain, elbow weakness.
+bipolar disorder has symptoms anxiety and nervousness, depression, abusing alcohol, delusions or hallucinations, fears and phobias, depressive or psychotic symptoms, temper problems, obsessions and compulsions.
+breast infection (mastitis) has symptoms abnormal appearing skin, chills, postpartum problems of the breast, mouth dryness, fever.
+postpartum depression has symptoms anxiety and nervousness, pain during pregnancy, problems during pregnancy.
+anxiety has symptoms anxiety and nervousness, depression, shortness of breath, sharp chest pain, abnormal involuntary movements, headache, increased heart rate, fears and phobias, depressive or psychotic symptoms, insomnia, palpitations, irregular heartbeat, chest tightness.
+chronic pain disorder has symptoms leg pain, hip pain, sharp abdominal pain, headache, low back pain, ache all over.
+chalazion has symptoms skin growth, diminished vision, symptoms of eye, foreign body sensation in eye, swollen eye, eyelid swelling, lacrimation.
+fibromyalgia has symptoms sharp chest pain, hip pain, arm pain, back pain, neck pain, muscle pain, ache all over.
+scarlet fever has symptoms sore throat, cough, throat swelling, throat swelling, skin swelling, fever, skin rash.
+peripheral nerve disorder has symptoms dizziness, abnormal involuntary movements, arm pain, back pain, foot or toe pain, problems with movement, loss of sensation, disturbance of memory, paresthesia, arm weakness, leg weakness.
+tonsillitis has symptoms sore throat, diminished hearing, lump in throat, throat feels tight, abnormal breathing sounds, swollen or red tonsils.
+psoriasis has symptoms skin swelling, irregular appearing scalp, skin moles, itchy scalp, abnormal appearing skin, skin growth, itching of skin, skin dryness, peeling, scaliness, or roughness, skin rash.
+intestinal obstruction has symptoms retention of urine, vomiting, nausea, vaginal itching, pain of the anus, burning abdominal pain, stomach bloating.
+vitreous degeneration has symptoms double vision, pain in eye, eye redness, lacrimation.
+shingles (herpes zoster) has symptoms sharp chest pain, headache, facial pain, pain in eye, back pain, itching of skin, skin rash.
+dislocation of the shoulder has symptoms arm stiffness or tightness, arm swelling, neck mass, shoulder pain.
+pinworm infection has symptoms retention of urine, constipation, itching of the anus.
+adjustment reaction has symptoms anxiety and nervousness, depression, hostile behavior, fears and phobias, nightmares, insomnia, excessive anger, delusions or hallucinations.
+atrophic skin condition has symptoms lip swelling, abnormal appearing skin, acne or pimples, skin growth, skin irritation, skin moles, wrinkles on skin, skin lesion.
+pulmonary embolism has symptoms shortness of breath, cough, hemoptysis, sweating, chest tightness, leg pain, weakness, side pain, difficulty breathing, sharp chest pain, leg swelling.
+ear drum damage has symptoms cough, nasal congestion, pus draining from ear, ringing in ear, plugged feeling in ear, pulling at ears, bleeding from ear.
+injury to internal organ has symptoms sharp chest pain, retention of urine, sharp abdominal pain, frequent urination, back pain, side pain.
+psychotic disorder has symptoms depression, insomnia, delusions or hallucinations, temper problems, fears and phobias, anxiety and nervousness, abusing alcohol.
+benign vaginal discharge (leukorrhea) has symptoms suprapubic pain, sharp abdominal pain, vaginal itching, painful urination, vaginal discharge, burning abdominal pain, vaginal redness, problems during pregnancy, frequent urination, pain during pregnancy.
+cranial nerve palsy has symptoms difficulty speaking, headache, diminished vision, double vision, symptoms of the face.
+sepsis has symptoms shortness of breath, weakness, difficulty breathing, chills, vomiting, fever.
+brachial neuritis has symptoms headache, hand or finger pain, back pain, elbow pain, hand or finger pain, neck pain, loss of sensation, shoulder pain.
+dementia has symptoms depressive or psychotic symptoms, insomnia, abnormal involuntary movements, problems with movement, focal weakness.
+injury to the arm has symptoms hand or finger pain, wrist pain, wrist swelling, arm swelling, loss of sensation, elbow swelling, hand or finger swelling, arm stiffness or tightness, arm pain, bones are painful, elbow pain.
+chronic rheumatic fever has symptoms sharp chest pain, dizziness, chest tightness, palpitations, throat feels tight.
+allergy has symptoms skin swelling, lip swelling, abnormal appearing skin, peripheral edema, fluid retention, itchiness of eye, swollen eye.
+acute bronchitis has symptoms shortness of breath, sore throat, headache, wheezing, difficulty breathing, coughing up sputum, coryza, congestion in chest.
+anemia has symptoms dizziness, vomiting blood, changes in stool appearance, nosebleed.
+panic attack has symptoms anxiety and nervousness, shortness of breath, chest tightness, weakness, sharp chest pain, irregular heartbeat, loss of sensation.
+soft tissue sarcoma has symptoms groin mass, abnormal appearing skin, itching of skin, skin dryness, peeling, scaliness, or roughness.
+prostatitis has symptoms retention of urine, painful urination, frequent urination, lower abdominal pain, impotence.
+otitis externa (swimmer's ear) has symptoms sore throat, cough, facial pain, itchy ear(s), fluid in ear, redness in ear.
+hirschsprung disease has symptoms emotional symptoms, sharp abdominal pain.
+pleural effusion has symptoms sharp chest pain, side pain, difficulty breathing.
+hypokalemia has symptoms shortness of breath, fainting, headache, diarrhea, loss of sensation, fever.
+hypertensive heart disease has symptoms shortness of breath, chest tightness, palpitations, leg swelling, difficulty breathing, recent pregnancy, sharp chest pain.
+pulmonary hypertension has symptoms shortness of breath, sharp chest pain, palpitations, cough, feeling ill, fatigue, hemoptysis, apnea, difficulty breathing.
+ear wax impaction has symptoms cough, diminished hearing, ear pain, fluid in ear, sinus congestion, plugged feeling in ear, fever.
+conjunctivitis has symptoms sore throat, cough, nasal congestion, white discharge from eye, pain in eye, lacrimation.
+blepharitis has symptoms white discharge from eye, diminished vision, symptoms of eye, lacrimation, itchiness of eye, eye burns or stings, eyelid swelling.
+pain after an operation has symptoms sharp abdominal pain, vomiting, headache, nausea, lower abdominal pain, back pain, neck pain, leg pain, sharp chest pain.
+diabetic retinopathy has symptoms symptoms of eye, foreign body sensation in eye, spots or clouds in vision, lacrimation.
+ischemic heart disease has symptoms shortness of breath, sharp chest pain, chest tightness, palpitations, throat feels tight, muscle pain, difficulty breathing, fatigue.
+drug abuse has symptoms depression, hostile behavior, smoking problems, delusions or hallucinations, sweating, antisocial behavior.
+conduct disorder has symptoms lack of growth, abusing alcohol, fainting, excessive anger, seizures, temper problems, depression, depressive or psychotic symptoms.
+corneal abrasion has symptoms white discharge from eye, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, eye redness, lacrimation, eyelid swelling.
+fracture of the skull has symptoms depressive or psychotic symptoms, diminished hearing, drug abuse, vomiting, headache.
+tooth abscess has symptoms lip swelling, facial pain, peripheral edema, jaw swelling, skin swelling, toothache, neck swelling, gum pain, pain in gums.
+diverticulitis has symptoms sharp abdominal pain, vomiting, nausea, diarrhea, lower abdominal pain, fever, chills, constipation.
+mononucleosis has symptoms sore throat, nasal congestion, feeling ill, swollen lymph nodes, fever.
+vaginal yeast infection has symptoms sharp abdominal pain, painful urination, vaginal redness.
+cataract has symptoms diminished vision, double vision, symptoms of eye, pain in eye, itchiness of eye, lacrimation, cloudy eye.
+sebaceous cyst has symptoms skin swelling, abnormal appearing skin, skin lesion, skin moles, arm lump or mass, irregular appearing scalp, back mass or lump.
+polycystic ovarian syndrome (pcos) has symptoms hot flashes, intermenstrual bleeding, pelvic pain, weight gain, long menstrual periods, infertility, absence of menstruation, unpredictable menstruation.
+overflow incontinence has symptoms suprapubic pain, involuntary urination, hand or finger stiffness or tightness.
+benign paroxysmal positional vertical (bppv) has symptoms irregular heartbeat, fainting, vomiting, nausea, problems with movement, frontal headache, dizziness.
+atonic bladder has symptoms retention of urine, suprapubic pain, emotional symptoms, impotence, symptoms of bladder.
+malignant hypertension has symptoms depressive or psychotic symptoms, sharp chest pain, headache.
+cardiac arrest has symptoms sharp chest pain, palpitations, irregular heartbeat, arm swelling, decreased heart rate.
+herniated disk has symptoms leg pain, arm pain, back pain, loss of sensation, paresthesia, arm weakness, leg weakness, hip pain, neck pain, low back pain, shoulder pain.
+coagulation (bleeding) disorder has symptoms blood in urine, melena.
+diverticulosis has symptoms sharp abdominal pain, nausea, diarrhea, lower abdominal pain, upper abdominal pain, blood in stool, heartburn, rectal bleeding.
+sprain or strain has symptoms leg pain, headache, hand or finger pain, wrist pain, low back pain, foot or toe pain, ankle pain, arm pain, back pain, neck pain, knee pain, shoulder pain.
+acute pancreatitis has symptoms abusing alcohol, sharp abdominal pain, vomiting, nausea, back pain, side pain, lower body pain, hemoptysis, sharp chest pain, diarrhea, burning abdominal pain, upper abdominal pain.
+viral warts has symptoms skin swelling, lip swelling, abnormal appearing skin, skin lesion, skin growth, skin moles, warts.
+carpal tunnel syndrome has symptoms hand or finger pain, wrist pain, hand or finger swelling, arm pain, wrist swelling, hand or finger stiffness or tightness, neck pain, elbow pain, arm weakness.
+delirium has symptoms depression, abnormal involuntary movements, difficulty speaking, hostile behavior, problems with movement, slurring words, disturbance of memory, delusions or hallucinations.
+benign prostatic hyperplasia (bph) has symptoms retention of urine, swelling of scrotum, pain in testicles, frequent urination, symptoms of prostate, excessive urination at night, hesitancy, involuntary urination, impotence, low urine output.
+chronic glaucoma has symptoms diminished vision, eye burns or stings, mass on eyelid.
+lactose intolerance has symptoms nasal congestion, flatulence, impotence.
+pyelonephritis has symptoms suprapubic pain, sharp abdominal pain, vomiting, frequent urination, lower abdominal pain, blood in urine, nausea, painful urination.
+itching of unknown cause has symptoms vaginal itching, problems during pregnancy, allergic reaction, fluid retention.
+spontaneous abortion has symptoms lower abdominal pain, intermenstrual bleeding, pain during pregnancy, pelvic pain, problems during pregnancy, uterine contractions, sharp abdominal pain, burning abdominal pain, spotting or bleeding during pregnancy, cramps and spasms, blood clots during menstrual periods, heavy menstrual flow.
+heart failure has symptoms shortness of breath, chest tightness, cough, hurts to breath.
+thrombophlebitis has symptoms skin swelling, arm pain, foot or toe pain, skin on leg or foot looks infected.
+corneal disorder has symptoms white discharge from eye, diminished vision, double vision, symptoms of eye, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye.
+glaucoma has symptoms diminished vision, symptoms of eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye.
+chronic back pain has symptoms neck pain, loss of sensation, side pain, groin pain, back stiffness or tightness, hip pain, back pain, low back pain, back cramps or spasms.
+premature ventricular contractions (pvcs) has symptoms shortness of breath, sharp chest pain, chest tightness, irregular heartbeat, impotence.
+gastritis has symptoms headache, nausea, diarrhea, burning abdominal pain, fever, sharp abdominal pain, vomiting, vomiting blood, regurgitation.1.
+preeclampsia has symptoms headache, pain during pregnancy, vaginal redness.
+sickle cell anemia has symptoms dry lips, back pain, fever, ache all over.
+cervicitis has symptoms suprapubic pain, sharp abdominal pain, nausea, vaginal itching, painful urination, pain during pregnancy, pelvic pain.
+vocal cord polyp has symptoms sore throat, difficulty speaking, throat feels tight.
+drug reaction has symptoms throat swelling, headache, nausea, peripheral edema, allergic reaction, shortness of breath, vomiting, abnormal appearing skin, itching of skin, skin rash, dizziness.
+crohn disease has symptoms sharp abdominal pain, vomiting, diarrhea, pain of the anus, burning abdominal pain, blood in stool, nausea, rectal bleeding.
+gastroduodenal ulcer has symptoms sharp abdominal pain, vomiting, nausea, heartburn, upper abdominal pain.
+osteomyelitis has symptoms hand or finger pain, arm swelling, skin lesion, bones are painful.
+tooth disorder has symptoms headache, mouth ulcer, peripheral edema, pain in gums, toothache, facial pain, ear pain, jaw swelling, bleeding gums.
+ileus has symptoms diarrhea, burning abdominal pain, constipation.
+eustachian tube dysfunction (ear disorder) has symptoms dizziness, sore throat, nasal congestion, ear pain, ringing in ear, plugged feeling in ear, redness in ear, swollen or red tonsils, diminished hearing, allergic reaction.
+attention deficit hyperactivity disorder (adhd) has symptoms depression, depressive or psychotic symptoms, hostile behavior, drug abuse, temper problems.
+white blood cell disease has symptoms vomiting, diarrhea, heartburn, fatigue, cough, nausea, chills.
+drug abuse (opioids) has symptoms anxiety and nervousness, insomnia, abusing alcohol, restlessness, excessive anger, delusions or hallucinations, temper problems.
+sciatica has symptoms leg pain, low back pain, loss of sensation, lower body pain, hip pain, problems with movement, leg cramps or spasms, leg weakness, back cramps or spasms.
+heart attack has symptoms sharp chest pain, fainting, arm pain, heartburn, burning chest pain, sweating, irregular heartbeat, nausea.
+drug abuse (barbiturates) has symptoms depression, drug abuse, delusions or hallucinations.
+dental caries has symptoms skin swelling, facial pain, restlessness, jaw swelling, toothache, ear pain, neck swelling, pain in gums.
+liver disease has symptoms shortness of breath, blood in stool, jaundice, sharp abdominal pain, heartburn, weakness, side pain, diarrhea, peripheral edema, upper abdominal pain.
+ganglion cyst has symptoms leg pain, hand or finger pain, wrist swelling, skin growth, knee lump or mass, hand or finger lump or mass, wrist lump or mass.
+temporary or benign blood in urine has symptoms retention of urine, suprapubic pain, painful urination, lower abdominal pain, back pain, regurgitation, regurgitation.1, symptoms of bladder, sharp abdominal pain, frequent urination.
+flu has symptoms sore throat, vomiting, headache, diarrhea, fever, chills.
+tonsillar hypertrophy has symptoms sore throat, cough, difficulty in swallowing, fever.
+endometriosis has symptoms sharp abdominal pain, lower abdominal pain, hot flashes, pelvic pain, burning abdominal pain, heavy menstrual flow, infertility.
+cornea infection has symptoms lip swelling, diminished vision, eye redness, itchiness of eye, eye burns or stings, swollen eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, lacrimation.
+abscess of the pharynx has symptoms sore throat, cough, nasal congestion, difficulty in swallowing, headache.
+contact dermatitis has symptoms acne or pimples, skin moles, swollen eye, itching of skin, skin irritation, skin swelling, abnormal appearing skin, skin lesion, skin dryness, peeling, scaliness, or roughness.
+arthritis of the hip has symptoms leg pain, hip pain, back pain, pelvic pain, knee pain, problems with movement, joint pain, hip stiffness or tightness, low back pain.
+sinus bradycardia has symptoms sharp chest pain, dizziness, chest tightness, palpitations, fainting, decreased heart rate.
+poisoning due to gas has symptoms sharp chest pain, dizziness, wheezing, drainage in throat.
+urethritis has symptoms retention of urine, suprapubic pain, sharp abdominal pain, vaginal itching, painful urination, blood in urine, penile discharge.
+mucositis has symptoms sore throat, difficulty in swallowing, mouth ulcer, tongue lesions.
+acne has symptoms abnormal appearing skin, acne or pimples, irregular appearing
